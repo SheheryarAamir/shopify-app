@@ -30,6 +30,7 @@ const Index = () => {
   }*/
  }, []);
 
+
  const toastMarkup = showToast ?
  <Toast
   content="Tag added successgully"
